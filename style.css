@@ -1,0 +1,14 @@
+.div {
+    background-color: lightgrey;
+    width: 400px;
+    border: 1px solid rgb(105, 196, 196);
+    padding: 50px;
+    
+    box-shadow: 10px 20px rgb(105, 196, 196);
+    margin: 20px;
+    border-radius: 20px;
+    
+  }
+  .padding{
+      padding-left: 60px;
+  }
